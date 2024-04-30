@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-## The game is quite simple:
+The game is quite simple:
 
 ### Setup:
 
