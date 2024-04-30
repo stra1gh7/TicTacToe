@@ -15,6 +15,8 @@ Players take turns entering their moves by specifying the number of the spot whe
 ### Validation
 The game verifies the input to ensure it's a valid move. If the chosen space is already occupied or the input is invalid, the player is prompted to enter a new move.
 
+![showcase4](https://github.com/stra1gh7/tictactoe/assets/104251303/3f81a526-6f1e-452d-8869-5ebbf24d2673)
+
 ### Winning Conditions
 The game checks after each move if there is a winning pattern (a winning pattern occurs when one player successfully places their symbol in a row, column, or diagonal)
 
