@@ -1,5 +1,4 @@
 #Tic Tac Toe
-This classic game of Xs and Os can be played with your friends.
 
 The game is quite simple:
 
